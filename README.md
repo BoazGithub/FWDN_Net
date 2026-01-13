@@ -1,6 +1,5 @@
 # <h1 align="center">🌍 FWDNNet</h1>
 
-[main_FWDNNet_frameworkV1.pdf](https://github.com/user-attachments/files/24593879/main_FWDNNet_frameworkV1.pdf)
 # <h3 align="center">Cross-Heterogeneous Encoder Fusion via Feature-Level TensorDot Operations for Land-Cover Mapping</h3>
 
 <p align="center">
