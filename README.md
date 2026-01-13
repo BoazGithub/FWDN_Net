@@ -654,7 +654,7 @@ Water: 95.1%
 
 ### 🎨 Qualitative Results
 
-*(Space reserved for qualitative comparison figures)*
+*(qualitative comparison figures)*
 ![main_FWDNNet_SoA_V4_page-0001](https://github.com/user-attachments/assets/8258dd28-ccfa-434c-a33a-d759defb1377)
 
 ### 📉 Training Curves 
