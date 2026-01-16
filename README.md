@@ -170,7 +170,6 @@ We present **FWDNNet**, a novel encoder-decoder architecture that integrates **h
 ## 🏗️ Architecture
 
 <div align="center">
-[Uploading main_FWDNNet_frameworkV1.pdf…]()
 ### Network Overview
 
 ```mermaid
