@@ -37,7 +37,7 @@
 
 ```diff
 + 🎊 31-December-2025: FWDNNet accepted for publication in IEEE TGRS!
-+ 📝 November 2025: Manuscript submitted to IEEE TGRS
++ 📝 October-November 2025: Manuscript submitted to IEEE TGRS
 + 🚀 October 2023: sKwanda_V3 datasets publicly released
 + 🚀 March 2023: Code and datasets developed
 ```
